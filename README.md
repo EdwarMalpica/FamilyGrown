@@ -11,14 +11,20 @@ commit 1
 
 
 ## Funcionalidades
-
 1. Crear arboles genealogicos
   * Editar en tiempo real
   * Agregar Imagenes  
-
 1.  Crear arboles genealogicos
   * Exportar a imagen
   * Exportar a pdf
+  * Agregar familiar
+  * Eliminar familiar
+  * Ver relaciones familiares
+  * Enviar notificacion de posible parentesco
+  * Editar en tiempo real
+  * Agregar Imagenes  
+
+
 2. Soportar multiples usuarios 
    * Permitir a los usuarios crear multiples diagramas 
    * Mantener un workspace al usuario
