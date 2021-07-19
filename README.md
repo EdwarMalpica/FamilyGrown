@@ -13,6 +13,9 @@ commit 1
 1. Crear arboles genealogicos
   * Exportar a imagen
   * Exportar a pdf
+  * Agregar familiar
+  * Eliminar familiar
+  * Ver relaciones familiares
 2. Soportar multiples usuarios 
 
 
