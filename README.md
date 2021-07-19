@@ -13,6 +13,7 @@ commit 1
 1. Crear arboles genealogicos
   * Exportar a imagen
   * Exportar a pdf
+2. Soportar multiples usuarios 
 
 
 
