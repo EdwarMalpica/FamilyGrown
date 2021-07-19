@@ -15,8 +15,11 @@ commit 1
   * Agregar Imagenes  
   * Exportar a imagen
   * Exportar a pdf
-  *  
-  
+  * Agregar familiar
+  * Eliminar familiar
+  * Ver relaciones familiares
+  * Enviar notificacion de posible parentesco
+
 2. Soportar multiples usuarios 
  
 
