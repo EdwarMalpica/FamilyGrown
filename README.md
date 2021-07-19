@@ -14,14 +14,15 @@ commit 1
   * Exportar a imagen
   * Exportar a pdf
 2. Soportar multiples usuarios 
-   *Permitir a los usuarios crear multiples diagramas 
+   * Permitir a los usuarios crear multiples diagramas 
    * Mantener un workspace al usuario
    * Agregar el perfil de una persona por medio del perfil de la app llenando los datos de manera automatica
+   * Combinar arboles entre usuarios que compartan nodos
 3. Visualiaciones
    * Permitir visualizar al usuario la ubicacion de una persona
    * Permitir ver el recorrido de los antepasados alrededor del planeta
    * Visualizacion en forma de arbol del arbol, permitir difernetes formas de visualicion
-   * 
+   
    
 
 
