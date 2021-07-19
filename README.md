@@ -16,6 +16,7 @@ commit 1
   * Agregar familiar
   * Eliminar familiar
   * Ver relaciones familiares
+  * Enviar notificacion de posible parentesco
 2. Soportar multiples usuarios 
 
 
