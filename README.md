@@ -20,6 +20,8 @@ commit 1
 3. Visualiaciones
    * Permitir visualizar al usuario la ubicacion de una persona
    * Permitir ver el recorrido de los antepasados alrededor del planeta
+   * Visualizacion en forma de arbol del arbol, permitir difernetes formas de visualicion
+   * 
    
 
 
