@@ -5,11 +5,17 @@
 commit 1
 ### Practicas de la programacion del codigo
 1. **Comentario** con descripcion del metodo, los parametros y las salidas
+
 2. Complejidad del metodo, opcional
 3. el modelo de empaquetado es MVC
 
 
 ## Funcionalidades
+
+1. Crear arboles genealogicos
+  * Editar en tiempo real
+  * Agregar Imagenes  
+
 1.  Crear arboles genealogicos
   * Exportar a imagen
   * Exportar a pdf
@@ -23,9 +29,6 @@ commit 1
    * Permitir ver el recorrido de los antepasados alrededor del planeta
    * Visualizacion en forma de arbol del arbol, permitir difernetes formas de visualicion
    
-   
-
-
 
 
 
